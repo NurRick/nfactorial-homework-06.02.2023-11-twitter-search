@@ -1,4 +1,3 @@
-
 import './App.css';
 import Home from './components/HomeComponent';
 import SideMenu from './components/SideMenuComponent';
